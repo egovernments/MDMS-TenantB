@@ -1,5 +1,5 @@
 {
-  "tenantId": "in.stateb",
+  "tenantId": "in.statea",
   "moduleName": "common-masters",
   "IdFormat": [
     {
@@ -577,6 +577,30 @@
     {
       "idname": "echallan.aplnumber",
       "format": "PB-CH-[cy:yyyy-MM-dd]-[SEQ_EG_CH_APL]"
+    },
+    {
+      "format": "PB-PT-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
+      "idname": "pt.propertyid"
+    },
+    {
+      "format": "PB-AC-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK]",
+      "idname": "pt.acknowledgementnumber"
+    },
+    {
+      "format": "PB-TL-[cy:yyyy-MM-dd]-[SEQ_EG_TL_APL]",
+      "idname": "tl.aplnumber"
+    },
+    {
+      "format": "PB-TL-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN]",
+      "idname": "tl.licensenumber"
+    },
+        {
+      "format": "PB-SK-[cy:yyyy-MM-dd]-[SEQ_EG_TL_APL]",
+      "idname": "bpa.aplnumber"
+    },
+    {
+      "format": "PB-SK-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN]",
+      "idname": "bpa.licensenumber"
     }
   ]
 }
