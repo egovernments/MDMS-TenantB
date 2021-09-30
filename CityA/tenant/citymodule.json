@@ -8,10 +8,10 @@
       "active": true,
       "tenants": [
         {
-          "code": "in.pb.jalandhar"
+          "code": "in.stateb.tenantu"
         },
         {
-          "code": "in.pb.amritsar"
+          "code": "in.stateb.tenantv"
         }
       ]
     },
@@ -21,13 +21,13 @@
       "active": true,
       "tenants": [
         {
-          "code": "in.pb.jalandhar"
+          "code": "in.stateb.tenantu"
         },
         {
-          "code": "in.pbphagwara"
+          "code": "in.stateb.tenantv"
         },
         {
-          "code": "in.pb.amritsar"
+          "code": "in.stateb.tenantw"
         }
       ]
     },
@@ -37,13 +37,13 @@
       "active": true,
       "tenants": [
         {
-          "code": "in.pb.jalandhar"
+          "code": "in.stateb.tenantu"
         },
         {
-          "code": "in.pbnawanshahr"
+          "code": "in.stateb.tenantv"
         },
         {
-          "code": "in.pb.amritsar"
+          "code": "in.stateb.tenantw"
         }
       ]
     },
@@ -53,35 +53,29 @@
       "active": true,
       "tenants": [
         {
-          "code": "in.pb.jalandhar"
+          "code": "in.stateb.tenantu"
         },
         {
-          "code": "in.pbnawanshahr"
+          "code": "in.stateb.tenantv"
         },
         {
-          "code": "in.pb.amritsar"
+          "code": "in.stateb.tenantw"
         }
       ]
     },
-   {
+    {
       "module": "Finance",
       "code": "Finance",
       "active": false,
       "tenants": [
         {
-          "code": "in.pb.jalandhar"
+          "code": "in.stateb.tenantu"
         },
         {
-          "code": "in.pbnawanshahr"
+          "code": "in.stateb.tenantv"
         },
         {
-          "code": "in.pb.amritsar"
-        },
-	{
-          "code": "in.pb.mohali"
-        },
-        {
-          "code": "in.pbnayagaon"
+          "code": "in.stateb.tenantw"
         }
       ]
     },
@@ -91,16 +85,13 @@
       "active": false,
       "tenants": [
         {
-          "code": "in.pb.jalandhar"
+          "code": "in.stateb.tenantu"
         },
         {
-          "code": "in.pbnawanshahr"
+          "code": "in.stateb.tenantv"
         },
         {
-          "code": "in.pb.amritsar"
-        }, 
-        {
-          "code": "in.pbderabassi"
+          "code": "in.stateb.tenantw"
         }
       ]
     },
@@ -110,26 +101,29 @@
       "active": false,
       "tenants": [
         {
-          "code": "in.pb.jalandhar"
+          "code": "in.stateb.tenantu"
         },
         {
-          "code": "in.pbnawanshahr"
+          "code": "in.stateb.tenantv"
         },
         {
-          "code": "in.pb.amritsar"
+          "code": "in.stateb.tenantw"
         }
       ]
     },
-   {
+    {
       "module": "BPAAPPLY",
       "code": "BPAAPPLY",
       "active": false,
       "tenants": [
         {
-          "code": "in.pb.jalandhar"
+          "code": "in.stateb.tenantu"
         },
         {
-          "code": "in.pb.amritsar"
+          "code": "in.stateb.tenantv"
+        },
+        {
+          "code": "in.stateb.tenantw"
         }
       ]
     },
@@ -139,10 +133,13 @@
       "active": false,
       "tenants": [
         {
-          "code": "in.pb.amritsar"
+          "code": "in.stateb.tenantu"
         },
-	      {
-          "code": "in.pb.jalandhar"
+        {
+          "code": "in.stateb.tenantv"
+        },
+        {
+          "code": "in.stateb.tenantw"
         }
       ]
     },
@@ -152,12 +149,16 @@
       "active": false,
       "tenants": [
         {
-          "code": "in.pb.jalandhar",
-	  "name":"Jalandhar"
+          "code": "in.stateb.tenantu",
+          "name": "Tenant U"
         },
         {
-          "code": "in.pbphagwara",
-          "name": "Phagwara"
+          "code": "in.stateb.tenantv",
+          "name": "Tenant V"
+        },
+        {
+          "code": "in.stateb.tenantw",
+          "name": "Tenant W"
         }
       ]
     },
@@ -167,16 +168,16 @@
       "active": false,
       "tenants": [
         {
-          "code": "in.pb.jalandhar",
-	        "name": "Jalandhar"
+          "code": "in.stateb.tenantu",
+          "name": "Tenant U"
         },
         {
-          "code": "in.pbphagwara",
-          "name": "Phagwara"
+          "code": "in.stateb.tenantv",
+          "name": "Tenant V"
         },
         {
-          "code": "in.pb.amritsar",
-          "name": "Amritsar"
+          "code": "in.stateb.tenantw",
+          "name": "Tenant W"
         }
       ]
     },
@@ -186,16 +187,16 @@
       "active": false,
       "tenants": [
         {
-          "code": "in.pb.jalandhar",
-          "name": "Jalandhar"
+          "code": "in.stateb.tenantu",
+          "name": "Tenant U"
         },
         {
-          "code": "in.pb.amritsar",
-          "name": "Amritsar"
+          "code": "in.stateb.tenantv",
+          "name": "Tenant V"
         },
         {
-          "code": "in.pbtesting",
-          "name": "Testing"
+          "code": "in.stateb.tenantw",
+          "name": "Tenant W"
         }
       ]
     }
