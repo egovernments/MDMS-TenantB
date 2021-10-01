@@ -11,7 +11,7 @@
       "idname": "billnumberid"
     },
     {
-      "format": "PB-AS-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
+      "format": "SB-AS-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
       "idname": "pt.assessmentnumber"
     },
     {
@@ -464,10 +464,10 @@
     },
     {
       "idname": "egov.idgen.bpa.applicationNum",
-      "format": "PB-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]"
+      "format": "SB-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]"
     },
     {
-      "format": "PB_PG_[cy:yyyy_MM_dd]_[SEQ_EG_PG_TXN]_[d{2}]",
+      "format": "SB_PG_[cy:yyyy_MM_dd]_[SEQ_EG_PG_TXN]_[d{2}]",
       "idname": "pg.txnid"
     },
     {
@@ -503,7 +503,7 @@
       "idname": "sewerageservice.application.id"
     },
     {
-      "format": "PB-MU-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
+      "format": "SB-MU-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
       "idname": "pt.mutation.receipt.id"
     },
     {
@@ -531,7 +531,7 @@
       "idname": "egov.idgen.bpa.bdlicensenumber"
     },
     {
-      "format": "PB-MT-[CITY]-[SEQ_EG_PT_MUTATION]",
+      "format": "SB-MT-[CITY]-[SEQ_EG_PT_MUTATION]",
       "idname": "pt.mutation.number"
     },
     {
@@ -551,11 +551,11 @@
       "idname": "bpa.nc_oc_san_fee.receipt.id"
     },
     {
-      "format": "PB-NOCSRV-[cy:yyyy-MM-dd]-[SEQ_EG_NOC_APN]",
+      "format": "SB-NOCSRV-[cy:yyyy-MM-dd]-[SEQ_EG_NOC_APN]",
       "idname": "noc.application.number"
     },
     {
-      "format": "PB-PGR-[cy:yyyy-MM-dd]-[SEQ_EG_PGR_ID]",
+      "format": "SB-PGR-[cy:yyyy-MM-dd]-[SEQ_EG_PGR_ID]",
       "idname": "pgr.servicerequestid"
     },
     {
@@ -576,30 +576,30 @@
     },
     {
       "idname": "echallan.aplnumber",
-      "format": "PB-CH-[cy:yyyy-MM-dd]-[SEQ_EG_CH_APL]"
+      "format": "SB-CH-[cy:yyyy-MM-dd]-[SEQ_EG_CH_APL]"
     },
     {
-      "format": "PB-PT-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
+      "format": "SB-PT-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
       "idname": "pt.propertyid"
     },
     {
-      "format": "PB-AC-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK]",
+      "format": "SB-AC-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK]",
       "idname": "pt.acknowledgementnumber"
     },
     {
-      "format": "PB-TL-[cy:yyyy-MM-dd]-[SEQ_EG_TL_APL]",
+      "format": "SB-TL-[cy:yyyy-MM-dd]-[SEQ_EG_TL_APL]",
       "idname": "tl.aplnumber"
     },
     {
-      "format": "PB-TL-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN]",
+      "format": "SB-TL-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN]",
       "idname": "tl.licensenumber"
     },
         {
-      "format": "PB-SK-[cy:yyyy-MM-dd]-[SEQ_EG_TL_APL]",
+      "format": "SB-SK-[cy:yyyy-MM-dd]-[SEQ_EG_TL_APL]",
       "idname": "bpa.aplnumber"
     },
     {
-      "format": "PB-SK-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN]",
+      "format": "SB-SK-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN]",
       "idname": "bpa.licensenumber"
     },
     {
@@ -607,8 +607,8 @@
       "idname": "collection.transactionno"
     },
      {
-            "format": "TL/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-            "idname": "tl.receipt.id"
+      "format": "TL/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+      "idname": "tl.receipt.id"
     }
   ]
 }
