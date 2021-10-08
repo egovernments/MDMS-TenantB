@@ -609,6 +609,14 @@
      {
       "format": "TL/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
       "idname": "tl.receipt.id"
+    },
+    {
+      "format": "SB-FN-[cy:yyyy-MM-dd]-[SEQ_EG_TL_APL_SB]",
+      "idname": "fn.fireNOCDetails.applicationNumber"
+    },
+    {
+      "format": "SB-FN-[cy:yyyy-MM-dd]-[SEQ_EG_PT_LN_SB]",
+      "idname": "fn.fireNOCNumber"
     }
   ]
 }
