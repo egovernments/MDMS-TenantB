@@ -348,102 +348,6 @@
     },
     {
       "code": "in.stateb.tenantu",
-      "service": "BPA.NC_OC_APP_FEE",
-      "receiptFooterContent": [
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_FIRST_LINE",
-          "order": "1."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_SECOND_LINE",
-          "order": "2."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_THIRD_LINE",
-          "order": "3."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_4",
-          "order": "4."
-        }
-      ],
-      "billFooterContent": [
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PAYMENT_RECEIVED",
-          "order": "1."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_DOCUMENT",
-          "order": "2."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_IS",
-          "order": "3."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_ASSESSSMENT_PAYMENT",
-          "order": "4."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PLEASE_DEPOSIT",
-          "order": "5."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_IF_THE_TAX",
-          "order": "6."
-        }
-      ]
-    },
-    {
-      "code": "in.stateb.tenantu",
-      "service": "BPA.NC_OC_SAN_FEE",
-      "receiptFooterContent": [
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_FIRST_LINE",
-          "order": "1."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_SECOND_LINE",
-          "order": "2."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_THIRD_LINE",
-          "order": "3."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_4",
-          "order": "4."
-        }
-      ],
-      "billFooterContent": [
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PAYMENT_RECEIVED",
-          "order": "1."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_DOCUMENT",
-          "order": "2."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_IS",
-          "order": "3."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_ASSESSSMENT_PAYMENT",
-          "order": "4."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PLEASE_DEPOSIT",
-          "order": "5."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_IF_THE_TAX",
-          "order": "6."
-        }
-      ]
-    },
-    {
-      "code": "in.stateb.tenantu",
       "service": "DEFAULT",
       "receiptFooterContent": [
         {
@@ -487,16 +391,6 @@
         {
           "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_IF_THE_TAX",
           "order": "6."
-        }
-      ],
-      "billAmendmentContent": [
-        {
-          "noteType": "CREDIT_NOTE",
-          "label": "PDF_STATIC_LABEL_BILL_AMENDMENT_CREDIT_NOTE"
-        },
-        {
-          "noteType": "DEBIT_NOTE",
-          "label": "PDF_STATIC_LABEL_BILL_AMENDMENT_DEBIT_NOTE"
         }
       ]
     },
@@ -790,6 +684,150 @@
     },
     {
       "code": "in.stateb.tenantv",
+      "service": "DEFAULT",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_FIRST_LINE",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_SECOND_LINE",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_THIRD_LINE",
+          "order": "3."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_4",
+          "order": "4."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PAYMENT_RECEIVED",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_DOCUMENT",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_IS",
+          "order": "3."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_ASSESSSMENT_PAYMENT",
+          "order": "4."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PLEASE_DEPOSIT",
+          "order": "5."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_IF_THE_TAX",
+          "order": "6."
+        }
+      ]
+    },
+    {
+      "code": "in.stateb.tenantu",
+      "service": "BPA.NC_OC_APP_FEE",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_FIRST_LINE",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_SECOND_LINE",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_THIRD_LINE",
+          "order": "3."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_4",
+          "order": "4."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PAYMENT_RECEIVED",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_DOCUMENT",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_IS",
+          "order": "3."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_ASSESSSMENT_PAYMENT",
+          "order": "4."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PLEASE_DEPOSIT",
+          "order": "5."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_IF_THE_TAX",
+          "order": "6."
+        }
+      ]
+    },
+    {
+      "code": "in.stateb.tenantu",
+      "service": "BPA.NC_OC_SAN_FEE",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_FIRST_LINE",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_SECOND_LINE",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_THIRD_LINE",
+          "order": "3."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_4",
+          "order": "4."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PAYMENT_RECEIVED",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_DOCUMENT",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_IS",
+          "order": "3."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_ASSESSSMENT_PAYMENT",
+          "order": "4."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PLEASE_DEPOSIT",
+          "order": "5."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_IF_THE_TAX",
+          "order": "6."
+        }
+      ]
+    },
+    {
+      "code": "in.stateb.tenantv",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -885,24 +923,12 @@
       ]
     },
     {
-      "code": "in.stateb.tenantv",
-      "service": "DEFAULT",
+      "code": "in.stateb.tenantu",
+      "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_FIRST_LINE",
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
           "order": "1."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_SECOND_LINE",
-          "order": "2."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_THIRD_LINE",
-          "order": "3."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_4",
-          "order": "4."
         }
       ],
       "billFooterContent": [
@@ -934,6 +960,196 @@
     },
     {
       "code": "in.stateb.tenantu",
+      "service": "ADVT.Unipolls",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PAYMENT_RECEIVED",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_DOCUMENT",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_IS",
+          "order": "3."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_ASSESSSMENT_PAYMENT",
+          "order": "4."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PLEASE_DEPOSIT",
+          "order": "5."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_IF_THE_TAX",
+          "order": "6."
+        }
+      ]
+    },
+    {
+      "code": "in.stateb.tenantu",
+      "service": "ADVT.Gas_Balloon_Advertisement",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PAYMENT_RECEIVED",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_DOCUMENT",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_IS",
+          "order": "3."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_ASSESSSMENT_PAYMENT",
+          "order": "4."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PLEASE_DEPOSIT",
+          "order": "5."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_IF_THE_TAX",
+          "order": "6."
+        }
+      ]
+    },
+    {
+      "code": "in.stateb.tenantu",
+      "service": "ADVT.Wall_Paint_Advertisement",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PAYMENT_RECEIVED",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_DOCUMENT",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_IS",
+          "order": "3."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_ASSESSSMENT_PAYMENT",
+          "order": "4."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PLEASE_DEPOSIT",
+          "order": "5."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_IF_THE_TAX",
+          "order": "6."
+        }
+      ]
+    },
+    {
+      "code": "in.stateb.tenantu",
+      "service": "ADVT.Light_Wala_Board",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PAYMENT_RECEIVED",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_DOCUMENT",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_IS",
+          "order": "3."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_ASSESSSMENT_PAYMENT",
+          "order": "4."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PLEASE_DEPOSIT",
+          "order": "5."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_IF_THE_TAX",
+          "order": "6."
+        }
+      ]
+    },
+    {
+      "code": "in.stateb.tenantu",
+      "service": "TX.No_Dues_Certificate",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_1",
+          "order": "1."
+        }
+      ],
+      "billFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PAYMENT_RECEIVED",
+          "order": "1."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_DOCUMENT",
+          "order": "2."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_IS",
+          "order": "3."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_ASSESSSMENT_PAYMENT",
+          "order": "4."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PLEASE_DEPOSIT",
+          "order": "5."
+        },
+        {
+          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_IF_THE_TAX",
+          "order": "6."
+        }
+      ]
+    },
+    {
+      "code": "in.stateb.tenantu",
+      "service": "FSM.TRIP_CHARGES",
+      "receiptFooterContent": [
+        {
+          "disclaimer": "PDF_STATIC_LABEL_FSM_RECEIPT_DISCLAIMER_FIRST_LINE",
+          "order": "1."
+        }
+      ]
+    },
+    {
+      "code": "in.stateb.tenantv",
       "service": "FSM.TRIP_CHARGES",
       "receiptFooterContent": [
         {
