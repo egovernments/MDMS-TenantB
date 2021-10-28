@@ -28,7 +28,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "1013",
-        "ddrName": "Jalandhar-MC"
+        "ddrName": "StateB-MC"
       },
       "address": "Municipal Corporation Office, Dr. B.R.Ambedkar Admin Complex, Nehru Garden, State B-144001",
       "pincode": [],
@@ -36,11 +36,11 @@
       "pdfHeader": "PB_PDF_HEADER",
       "pdfContactDetails": "PB_CONTACT_DETAILS"
     },
-     {
+    {
       "code": "in.stateb.tenantu",
       "name": "Tenant U",
       "description": null,
-       "logoId": "https://stateb.digit.org/in.stateb-assets/logo.jpg",
+      "logoId": "https://stateb.digit.org/in.stateb-assets/logo.jpg",
       "imageId": "https://stateb.digit.org/in.stateb-assets/logo.jpg",
       "domainUrl": "www.amritsarcorp.com",
       "type": "CITY",
@@ -63,9 +63,9 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "107",
-        "ddrName": "Tenant-U"
+        "ddrName": "TenantU-MC"
       },
-     "address": "Municipal Corporation Office, Dr. B.R.Ambedkar Admin Complex, Nehru Garden, Tenant U City-143001",
+      "address": "Municipal Corporation Office, Dr. B.R.Ambedkar Admin Complex, Nehru Garden, Tenant U City-143001",
       "pincode": [
         143001,
         143002,
@@ -87,7 +87,7 @@
       "code": "in.stateb.tenantv",
       "name": "Tenant V",
       "description": "Tenant V",
-       "logoId": "https://stateb.digit.org/in.stateb-assets/logo.jpg",
+      "logoId": "https://stateb.digit.org/in.stateb-assets/logo.jpg",
       "imageId": "https://stateb.digit.org/in.stateb-assets/logo.jpg",
       "domainUrl": "www.mcjalandhar.in",
       "type": "CITY",
