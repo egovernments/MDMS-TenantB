@@ -4,8 +4,8 @@
   "tenants": [
     {
       "code": "in.stateb",
-      "name": "Punjab",
-      "description": "Punjab",
+      "name": "State B",
+      "description": "State B",
       "logoId": "https://stateb.digit.org/in.stateb-assets/logo.jpg",
       "imageId": "https://stateb.digit.org/in.stateb-assets/logo.jpg",
       "domainUrl": "www.mcjalandhar.in",
