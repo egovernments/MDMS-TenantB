@@ -82,7 +82,23 @@
     {
       "module": "TL",
       "code": "TL",
-      "active": false,
+      "active": true,
+      "tenants": [
+        {
+          "code": "in.stateb.tenantu"
+        },
+        {
+          "code": "in.stateb.tenantv"
+        },
+        {
+          "code": "in.stateb.tenantw"
+        }
+      ]
+    },
+     {
+      "module": "MCollect",
+      "code": "MCollect",
+      "active": true,
       "tenants": [
         {
           "code": "in.stateb.tenantu"
