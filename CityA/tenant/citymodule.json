@@ -82,7 +82,7 @@
     {
       "module": "TL",
       "code": "TL",
-      "active": false,
+      "active": true,
       "tenants": [
         {
           "code": "in.stateb.tenantu"
@@ -98,7 +98,7 @@
     {
       "module": "FIRENOC",
       "code": "FIRENOC",
-      "active": false,
+      "active": true,
       "tenants": [
         {
           "code": "in.stateb.tenantu"
@@ -165,7 +165,7 @@
     {
       "module": "UC",
       "code": "UC",
-      "active": false,
+      "active": true,
       "tenants": [
         {
           "code": "in.stateb.tenantu",
@@ -185,6 +185,44 @@
       "module": "CASE_MANAGEMENT",
       "code": "CASE_MANAGEMENT",
       "active": false,
+      "tenants": [
+        {
+          "code": "in.stateb.tenantu",
+          "name": "Tenant U"
+        },
+        {
+          "code": "in.stateb.tenantv",
+          "name": "Tenant V"
+        },
+        {
+          "code": "in.stateb.tenantw",
+          "name": "Tenant W"
+        }
+      ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "tenants": [
+        {
+          "code": "in.stateb.tenantu",
+          "name": "Tenant U"
+        },
+        {
+          "code": "in.stateb.tenantv",
+          "name": "Tenant V"
+        },
+        {
+          "code": "in.stateb.tenantw",
+          "name": "Tenant W"
+        }
+      ]
+    },
+    {
+      "module": "MCollect",
+      "code": "MCollect",
+      "active": true,
       "tenants": [
         {
           "code": "in.stateb.tenantu",
