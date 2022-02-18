@@ -237,6 +237,22 @@
           "name": "Tenant W"
         }
       ]
+    },
+    {
+      "module": "Payment",
+      "code": "Payment",
+      "active": true,
+      "tenants": [
+     {
+          "code": "in.stateb.tenantu"
+        },
+        {
+          "code": "in.stateb.tenantv"
+        },
+        {
+          "code": "in.stateb.tenantw"
+        }
+      ]
     }
   ]
 }
