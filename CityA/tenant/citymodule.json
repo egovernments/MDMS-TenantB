@@ -143,6 +143,22 @@
         }
       ]
     },
+     {
+      "module": "OBPS",
+      "code": "OBPS",
+      "active": true,
+      "tenants": [
+        {
+          "code": "in.stateb.tenantu"
+        },
+        {
+          "code": "in.stateb.tenantv"
+        },
+        {
+          "code": "in.stateb.tenantw"
+        }
+      ]
+    },
     {
       "module": "PGR.WHATSAPP",
       "code": "PGR.WHATSAPP",
