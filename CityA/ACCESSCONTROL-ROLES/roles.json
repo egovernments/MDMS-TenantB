@@ -1,8 +1,8 @@
 {
-  "tenantId": "in.stateb",
+  "tenantId": "in.statea",
   "moduleName": "ACCESSCONTROL-ROLES",
   "roles": [
-   {
+    {
       "code": "CITIZEN",
       "name": "Citizen",
       "description": "Citizen who can raise complaint"
