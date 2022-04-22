@@ -24216,6 +24216,12 @@
       "actionid": 2330,
       "actioncode": "",
       "tenantId": "in.stateb"
+    },
+    {
+      "rolecode": "NATADMIN",
+      "actionid": 2319,
+      "actioncode": "",
+      "tenantId": "in"
     }
   ]
 }
