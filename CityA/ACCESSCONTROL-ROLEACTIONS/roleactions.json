@@ -24222,6 +24222,12 @@
       "actionid": 2319,
       "actioncode": "",
       "tenantId": "in"
+    },
+    {
+      "rolecode": "NATADMIN",
+      "actionid": 1889,
+      "actioncode": "",
+      "tenantId": "in"
     }
   ]
 }
