@@ -13456,12 +13456,6 @@
     },
     {
       "rolecode": "STADMIN",
-      "actionid": 1890,
-      "actioncode": "",
-      "tenantId": "in.stateb"
-    },
-    {
-      "rolecode": "STADMIN",
       "actionid": 1892,
       "actioncode": "",
       "tenantId": "in.stateb"
@@ -24221,13 +24215,13 @@
       "rolecode": "NATADMIN",
       "actionid": 2319,
       "actioncode": "",
-      "tenantId": "in"
+      "tenantId": "in.stateb"
     },
     {
       "rolecode": "NATADMIN",
       "actionid": 1889,
       "actioncode": "",
-      "tenantId": "in"
+      "tenantId": "in.stateb"
     }
   ]
 }
