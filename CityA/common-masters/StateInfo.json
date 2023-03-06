@@ -3,14 +3,14 @@
   "moduleName": "common-masters",
   "StateInfo": [
     {
-      "name": "Panjab",
+      "name": "Demo",
       "code": "in.stateb",
-      "qrCodeURL": "https://raw.githubusercontent.com/egovernments/frontend/master/web/rainmaker/dev-packages/egov-ui-kit-dev/src/assets/images/qrImage.png",
+      "qrCodeURL":"https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
       "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
-      "logoUrl": "https://raw.githubusercontent.com/egovernments/egov-web-app/rainmaker-v1-dynamic-state/web/rainmaker/packages/assets/images/pb/mseva-punjab.png",
-      "logoUrlWhite": "https://dev.digit.org/egov-dev-assets/logo-mseva-white.png",
+      "logoUrl": "https://uat.digit.org/pg-egov-assets/mseva-logo-colored.png",
+      "logoUrlWhite": "https://uat.digit.org/pg-egov-assets/mseva-logo-white.png",
+      "statelogo":"https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.citya/logo.png",
       "hasLocalisation": true,
-      "enableWhatsApp": true,
       "defaultUrl": {
         "citizen": "/user/register",
         "employee": "/user/login"
@@ -23,10 +23,6 @@
         {
           "label": "हिंदी",
           "value": "hi_IN"
-        },
-        {
-          "label": "ਪੰਜਾਬੀ",
-          "value": "pn_IN"
         }
       ],
       "localizationModules": [
@@ -55,10 +51,6 @@
           "value": "rainmaker-pgr"
         },
         {
-          "label": "rainmaker-fsm",
-          "value": "rainmaker-fsm"
-        },
-        {
           "label": "rainmaker-tl",
           "value": "rainmaker-tl"
         },
@@ -81,6 +73,10 @@
         {
           "label": "rainmaker-dss",
           "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
         }
       ]
     }

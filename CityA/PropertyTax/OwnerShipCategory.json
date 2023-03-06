@@ -34,11 +34,6 @@
       "active": true
     },
     {
-      "name": "Other Private Institution",
-      "code": "INSTITUTIONALPRIVATE.OTHERSPRIVATEINSTITUITION",
-      "active": true
-    },
-    {
       "name": "NGO",
       "code": "INSTITUTIONALPRIVATE.NGO",
       "active": true

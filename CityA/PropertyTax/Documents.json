@@ -7,7 +7,7 @@
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "digit-citizen": true,
+      "digit-citizen":true,
       "hasDropdown": true,
       "additionalDetails": {
         "enabledActions": {
@@ -66,7 +66,7 @@
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "digit-citizen": true,
+      "digit-citizen":true,
       "hasDropdown": true,
       "additionalDetails": {
         "enabledActions": {
@@ -117,7 +117,7 @@
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "digit-citizen": true,
+      "digit-citizen":true,
       "hasDropdown": true,
       "additionalDetails": {
         "enabledActions": {
@@ -178,6 +178,7 @@
         },
         {
           "code": "OWNER.REGISTRATIONPROOF.UNREGISTEREDWILLDEED",
+          
           "active": true
         }
       ],
@@ -188,7 +189,7 @@
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "digit-citizen": true,
+      "digit-citizen":true,
       "hasDropdown": true,
       "additionalDetails": {
         "filterCondition": {
@@ -199,25 +200,15 @@
           "jsonPath": "Properties[0].propertyDetails[0].owners",
           "onArray": true,
           "arrayAttribute": "ownerType",
-          "formDataPath": [
-            "owners"
-          ],
-          "formArrayAttrPath": [
-            "ownerType",
-            "code"
-          ]
+          "formDataPath": ["owners"],
+          "formArrayAttrPath": ["ownerType", "code"]
         },
         "dropdownFilter": {
           "parentArrayJsonPath": "Properties[0].propertyDetails[0].owners",
           "parentJsonpath": "ownerType",
           "onArray": true,
-          "formArrayAttrPath": [
-            "ownerType",
-            "code"
-          ],
-          "formDataPath": [
-            "owners"
-          ]
+          "formArrayAttrPath": ["ownerType", "code"],
+          "formDataPath": ["owners"]
         },
         "enabledActions": {
           "assess": {
@@ -283,15 +274,12 @@
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "digit-citizen": true,
+      "digit-citizen":true,
       "hasDropdown": true,
       "additionalDetails": {
         "dropdownFilter": {
           "parentJsonpath": "Properties[0].propertyDetails[0].usageCategoryMinor",
-          "formDataPath": [
-            "usageCategoryMinor",
-            "code"
-          ]
+          "formDataPath": ["usageCategoryMinor","code"]
         },
         "enabledActions": {
           "assess": {
@@ -345,7 +333,7 @@
       "documentType": "OWNER",
       "required": false,
       "active": true,
-      "digit-citizen": true,
+      "digit-citizen":true,
       "hasDropdown": true,
       "additionalDetails": {
         "filterCondition": {
@@ -353,10 +341,7 @@
             "VACANT"
           ],
           "jsonPath": "Properties[0].propertyDetails[0].propertyType",
-          "formDataPath": [
-            "propertyType",
-            "code"
-          ],
+          "formDataPath":["propertyType","code"],
           "onArray": false
         },
         "enabledActions": {
@@ -391,7 +376,7 @@
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "digit-citizen": true,
+      "digit-citizen":true,
       "hasDropdown": true,
       "additionalDetails": {
         "filterCondition": {
@@ -402,12 +387,8 @@
           "jsonPath": "Properties[0].propertyDetails[0].units",
           "onArray": true,
           "arrayAttribute": "occupancyType",
-          "formDataPath": [
-            "units"
-          ],
-          "formArrayAttrPath": [
-            "occupancyType"
-          ]
+          "formDataPath": ["units"],
+          "formArrayAttrPath": ["occupancyType"]
         },
         "enabledActions": {
           "assess": {

@@ -3,28 +3,29 @@
   "moduleName": "firenoc",
   "FireStations": [
     {
-      "code": "FS_STATEB_TENANTU",
+      "code": "FS_CITYA_01",
       "baseTenantId": "in.stateb.tenantu",
-      "active": true,
-      "subDistrict": [
-        "TenantX"
-      ]
+      "active": true
     },
     {
-      "code": "FS_STATEB_TENANTV",
+      "code": "FS_CITYB_01",
       "baseTenantId": "in.stateb.tenantv",
-      "active": true,
-      "subDistrict": [
-        "TenantY"
-      ]
+      "active": true
     },
     {
-      "code": "FS_STATEB_TENANTW",
+      "code": "FS_CITYC_01",
       "baseTenantId": "in.stateb.tenantw",
-      "active": true,
-      "subDistrict": [
-        "TenantZ"
-      ]
+      "active": true
+    },
+    {
+      "code": "FS_CITYD_01",
+      "baseTenantId": "pg.cityd",
+      "active": true
+    },
+    {
+      "code": "FS_CITYE_01",
+      "baseTenantId": "pg.citye",
+      "active": true
     }
   ]
 }

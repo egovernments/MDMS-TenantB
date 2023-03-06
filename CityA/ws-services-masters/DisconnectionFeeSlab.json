@@ -1,0 +1,10 @@
+{
+    "tenantId": "in.stateb",
+    "moduleName": "ws-services-calculation",
+    "DisconnectionFeeSlab": [
+      {
+        "applicationFee": 0,
+        "isActive": true
+      }
+    ]
+  }

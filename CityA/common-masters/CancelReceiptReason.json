@@ -1,14 +1,17 @@
 {
   "tenantId": "in.stateb",
   "moduleName": "common-masters",
-  "CancelReceiptReason":
+  "CancelCurrentBillReasons":
   [
     {
-      "code": "ERRORRECEIPT",
+      "code": "INCORRECT_PERSONAL_INFO",
       "active": true
     },
     {
-      "code": "CHEQUEBOUNCE",
+      "code": "INCORRECT_PROPERTY_DETAILS",
+      "active": true
+    },{
+      "code": "INCORRECT_CONNECTION_DETAILS",
       "active": true
     },
     {
@@ -16,4 +19,4 @@
       "active": true
     }
   ]
-}
+} 

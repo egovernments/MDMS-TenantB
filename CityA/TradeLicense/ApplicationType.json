@@ -1,7 +1,8 @@
 {
     "tenantId": "in.stateb",
     "moduleName": "TradeLicense",
-    "ApplicationType": [{
+    "ApplicationType": [
+        {
             "code": "APPLICATIONTYPE.NEW",
             "active": true
         },

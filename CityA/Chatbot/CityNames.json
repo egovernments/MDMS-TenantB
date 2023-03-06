@@ -1,0 +1,26 @@
+{
+    "tenantId": "in.stateb",
+    "moduleName": "Chatbot",
+    "CityNames": [
+        {
+            "locale": "en",
+            "cities": [
+                "Tenant U",
+                "Tenant V",
+                "Tenant W",
+                "City D",
+                "City E"
+            ]
+        },
+        {
+            "locale": "hi",
+            "cities": [
+                "शहर अ",
+                "शहर ब",
+                "शहर स",
+                "शहर डी",
+                "शहर ई"
+            ]
+        }
+    ]
+}
