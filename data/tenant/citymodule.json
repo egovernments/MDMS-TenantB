@@ -349,6 +349,22 @@
           "code": "in.stateb.tenantw"
         }
       ]
+    },
+    {
+      "module": "WS",
+      "code": "WS",
+      "active": true,
+      "tenants": [
+     {
+          "code": "in.stateb.tenantu"
+        },
+        {
+          "code": "in.stateb.tenantv"
+        },
+        {
+          "code": "in.stateb.tenantw"
+        }
+      ]
     }
   ]
 }
