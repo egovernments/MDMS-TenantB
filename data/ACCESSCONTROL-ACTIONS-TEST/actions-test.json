@@ -14607,6 +14607,33 @@
       "navigationURL": "/digit-ui/employee/dss/landing/home",
       "leftIcon": "places:business-center",
       "rightIcon": ""
-    }
+   },
+   {
+      "id": 2506,
+      "name": "NSS Dashboard Config Water & Sewerage",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/national-ws",
+      "parentModule": "",
+      "displayName": "NSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "NSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2507,
+      "name": "National Dashboard Water & Sewerage",
+      "url": "url",
+      "displayName": "National Water & Sewerage",
+      "orderNumber": 4,
+      "parentModule": "ndss-dashboard",
+      "enabled": true,
+      "serviceCode": "NDSS",
+      "code": "null",
+      "path": "NatDashboard.Water&Sewerage",
+      "navigationURL": "integration/dss/national-ws",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+   }
   ]
 }
