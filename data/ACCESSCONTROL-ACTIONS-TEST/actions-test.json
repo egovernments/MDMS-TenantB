@@ -14592,7 +14592,21 @@
      "serviceCode": "",
      "code": "null",
      "path": ""
-   }
-   
+   },
+   {
+      "id": 2505,
+      "name": "Dashboard Home",
+      "url": "url",
+      "displayName": "SURE Dashboard",
+      "orderNumber": 2,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.Home",
+      "navigationURL": "/digit-ui/employee/dss/landing/home",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    }
   ]
 }
