@@ -3,22 +3,11 @@
   "moduleName": "tenant",
   "citymodule": [
     {
-      "module": "FSM",
-      "code": "FSM",
-      "active": true,
-      "tenants": [
-        {
-          "code": "in.stateb.tenantu"
-        },
-        {
-          "code": "in.stateb.tenantv"
-        }
-      ]
-    },
-    {
       "module": "PGR",
       "code": "PGR",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
       "active": true,
+      "order": 2,
       "tenants": [
         {
           "code": "in.stateb.tenantu"
@@ -34,7 +23,9 @@
     {
       "module": "PT",
       "code": "PT",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
+      "order": 1,
       "tenants": [
         {
           "code": "in.stateb.tenantu"
@@ -51,6 +42,7 @@
       "module": "QuickPayLinks",
       "code": "QuickPayLinks",
       "active": true,
+      "order": 1,
       "tenants": [
         {
           "code": "in.stateb.tenantu"
@@ -67,6 +59,7 @@
       "module": "Finance",
       "code": "Finance",
       "active": false,
+      "order": 4,
       "tenants": [
         {
           "code": "in.stateb.tenantu"
@@ -82,7 +75,9 @@
     {
       "module": "TL",
       "code": "TL",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/TL.png",
       "active": true,
+      "order": 2,
       "tenants": [
         {
           "code": "in.stateb.tenantu"
@@ -96,9 +91,10 @@
       ]
     },
     {
-      "module": "FIRENOC",
-      "code": "FIRENOC",
+      "module": "Firenoc",
+      "code": "Firenoc",
       "active": true,
+      "order": 2,
       "tenants": [
         {
           "code": "in.stateb.tenantu"
@@ -112,9 +108,10 @@
       ]
     },
     {
-      "module": "BPAAPPLY",
-      "code": "BPAAPPLY",
+      "module": "UC",
+      "code": "UC",
       "active": false,
+      "order": 2,
       "tenants": [
         {
           "code": "in.stateb.tenantu"
@@ -130,7 +127,9 @@
     {
       "module": "BPAREG",
       "code": "BPAREG",
-      "active": false,
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": true,
+      "order": 2,
       "tenants": [
         {
           "code": "in.stateb.tenantu"
@@ -143,10 +142,12 @@
         }
       ]
     },
-     {
-      "module": "OBPS",
-      "code": "OBPS",
+    {
+      "module": "BPAAPPLY",
+      "code": "BPAAPPLY",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
       "active": true,
+      "order": 2,
       "tenants": [
         {
           "code": "in.stateb.tenantu"
@@ -163,94 +164,46 @@
       "module": "PGR.WHATSAPP",
       "code": "PGR.WHATSAPP",
       "active": false,
+      "order": 4,
       "tenants": [
         {
-          "code": "in.stateb.tenantu",
-          "name": "Tenant U"
-        },
-        {
-          "code": "in.stateb.tenantv",
-          "name": "Tenant V"
-        },
-        {
-          "code": "in.stateb.tenantw",
-          "name": "Tenant W"
+          "code": "in.stateb.tenantu"
         }
       ]
     },
     {
-      "module": "UC",
-      "code": "UC",
+      "module": "OBPS",
+      "code": "OBPS",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
       "active": true,
+      "order": 2,
       "tenants": [
         {
-          "code": "in.stateb.tenantu",
-          "name": "Tenant U"
+          "code": "in.stateb.tenantu"
         },
         {
-          "code": "in.stateb.tenantv",
-          "name": "Tenant V"
+          "code": "in.stateb.tenantv"
         },
         {
-          "code": "in.stateb.tenantw",
-          "name": "Tenant W"
+          "code": "in.stateb.tenantw"
         }
       ]
     },
     {
-      "module": "CASE_MANAGEMENT",
-      "code": "CASE_MANAGEMENT",
-      "active": false,
-      "tenants": [
-        {
-          "code": "in.stateb.tenantu",
-          "name": "Tenant U"
-        },
-        {
-          "code": "in.stateb.tenantv",
-          "name": "Tenant V"
-        },
-        {
-          "code": "in.stateb.tenantw",
-          "name": "Tenant W"
-        }
-      ]
-    },
-    {
-      "module": "HRMS",
-      "code": "HRMS",
+      "module": "FSM",
+      "code": "FSM",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/FSM.png",
       "active": true,
+      "order": 2,
       "tenants": [
         {
-          "code": "in.stateb.tenantu",
-          "name": "Tenant U"
+          "code": "in.stateb.tenantu"
         },
         {
-          "code": "in.stateb.tenantv",
-          "name": "Tenant V"
+          "code": "in.stateb.tenantv"
         },
         {
-          "code": "in.stateb.tenantw",
-          "name": "Tenant W"
-        }
-      ]
-    },
-    {
-      "module": "MCollect",
-      "code": "MCollect",
-      "active": true,
-      "tenants": [
-        {
-          "code": "in.stateb.tenantu",
-          "name": "Tenant U"
-        },
-        {
-          "code": "in.stateb.tenantv",
-          "name": "Tenant V"
-        },
-        {
-          "code": "in.stateb.tenantw",
-          "name": "Tenant W"
+          "code": "in.stateb.tenantw"
         }
       ]
     },
@@ -258,8 +211,9 @@
       "module": "Payment",
       "code": "Payment",
       "active": true,
+      "order": 1,
       "tenants": [
-     {
+        {
           "code": "in.stateb.tenantu"
         },
         {
@@ -274,8 +228,26 @@
       "module": "Receipts",
       "code": "Receipts",
       "active": true,
+      "order": 3,
       "tenants": [
-     {
+        {
+          "code": "in.stateb.tenantu"
+        },
+        {
+          "code": "in.stateb.tenantv"
+        },
+        {
+          "code": "in.stateb.tenantw"
+        }
+      ]
+    },
+    {
+      "module": "NOC",
+      "code": "NOC",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
           "code": "in.stateb.tenantu"
         },
         {
@@ -290,8 +262,9 @@
       "module": "DSS",
       "code": "DSS",
       "active": true,
+      "order": 6,
       "tenants": [
-     {
+        {
           "code": "in.stateb.tenantu"
         },
         {
@@ -306,8 +279,43 @@
       "module": "Engagement",
       "code": "Engagement",
       "active": true,
+      "order": 3,
       "tenants": [
-     {
+        {
+          "code": "in.stateb.tenantu"
+        },
+        {
+          "code": "in.stateb.tenantv"
+        },
+        {
+          "code": "in.stateb.tenantw"
+        }
+      ]
+    },
+    {
+      "module": "MCollect",
+      "code": "MCollect",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "in.stateb.tenantu"
+        },
+        {
+          "code": "in.stateb.tenantv"
+        },
+        {
+          "code": "in.stateb.tenantw"
+        }
+      ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
           "code": "in.stateb.tenantu"
         },
         {
@@ -322,8 +330,9 @@
       "module": "CommonPT",
       "code": "CommonPT",
       "active": true,
+      "order": 3,
       "tenants": [
-     {
+        {
           "code": "in.stateb.tenantu"
         },
         {
@@ -338,8 +347,9 @@
       "module": "NDSS",
       "code": "NDSS",
       "active": true,
+      "order": 5,
       "tenants": [
-     {
+        {
           "code": "in.stateb.tenantu"
         },
         {
@@ -353,9 +363,99 @@
     {
       "module": "WS",
       "code": "WS",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/WS.png",
       "active": true,
+      "order": 1,
       "tenants": [
-     {
+        {
+          "code": "in.stateb.tenantu"
+        },
+        {
+          "code": "in.stateb.tenantv"
+        },
+        {
+          "code": "in.stateb.tenantw"
+        }
+      ]
+    },
+    {
+      "module": "SW",
+      "code": "SW",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "in.stateb.tenantu"
+        },
+        {
+          "code": "in.stateb.tenantv"
+        },
+        {
+          "code": "in.stateb.tenantw"
+        }
+      ]
+    },
+    {
+      "module": "BillAmendment",
+      "code": "BillAmendment",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "in.stateb.tenantu"
+        },
+        {
+          "code": "in.stateb.tenantv"
+        },
+        {
+          "code": "in.stateb.tenantw"
+        }
+      ]
+    },
+    {
+      "module": "Bills",
+      "code": "Bills",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/Bill.png",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "in.stateb.tenantu"
+        },
+        {
+          "code": "in.stateb.tenantv"
+        },
+        {
+          "code": "in.stateb.tenantw"
+        }
+      ]
+    },
+    {
+      "module": "Birth",
+      "code": "Birth",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "in.stateb.tenantu"
+        },
+        {
+          "code": "in.stateb.tenantv"
+        },
+        {
+          "code": "in.stateb.tenantw"
+        }
+      ]
+    },
+    {
+      "module": "Death",
+      "code": "Death",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
           "code": "in.stateb.tenantu"
         },
         {
