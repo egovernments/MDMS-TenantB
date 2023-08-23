@@ -1,17 +1,17 @@
 {
-    "tenantId": "in.stateb",
+    "tenantId": "in.state1",
     "moduleName": "DocumentUploader",
     "UlbLevelCategories": [
       {
-        "ulb": "in.stateb.tenantu",
+        "ulb": "in.state1.tenantu",
         "categoryList": ["CATEGORY_CITIZEN_CHARTER","CATEGORY_FORMS","CATEGORY_TENDERS","CATEGORY_CIRCULARS","CATEGORY_GOVERNMENT_ORDERS"]
       },
       {
-        "ulb": "in.stateb.tenantv",
+        "ulb": "in.state1.tenantv",
         "categoryList": ["CATEGORY_CITIZEN_CHARTER","CATEGORY_FORMS","CATEGORY_TENDERS","CATEGORY_CIRCULARS","CATEGORY_GOVERNMENT_ORDERS"]
       },
       {
-        "ulb": "in.stateb.tenantw",
+        "ulb": "in.state1.tenantw",
         "categoryList": ["CATEGORY_CITIZEN_CHARTER","CATEGORY_FORMS","CATEGORY_TENDERS","CATEGORY_CIRCULARS","CATEGORY_GOVERNMENT_ORDERS"]
       }
     ]

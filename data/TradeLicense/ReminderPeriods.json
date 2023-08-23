@@ -1,17 +1,17 @@
 {
-    "tenantId": "in.stateb",
+    "tenantId": "in.state1",
     "moduleName": "TradeLicense",
     "ReminderPeriods": [
       {
-        "tenantId": "in.stateb.tenantu",
+        "tenantId": "in.state1.tenantu",
         "reminderInterval": 691200000
       },
       {
-        "tenantId": "in.stateb.tenantv",
+        "tenantId": "in.state1.tenantv",
         "reminderInterval": 12345
       },
       {
-        "tenantId": "in.stateb.tenantw",
+        "tenantId": "in.state1.tenantw",
         "reminderInterval": 12345  
       }
     ]

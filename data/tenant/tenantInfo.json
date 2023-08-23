@@ -1,9 +1,9 @@
 {
-  "tenantId": "in.stateb",
+  "tenantId": "in.state1",
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "in.stateb.tenantu",
+      "code": "in.state1.tenantu",
       "districtCode": "Barnala",
       "population": "156716",
       "malePopulation": "82045",
@@ -17,7 +17,7 @@
       ]
     },
     {
-      "code": "in.stateb.tenantv",
+      "code": "in.state1.tenantv",
       "districtCode": "Bahadaur",
       "population": "116449",
       "malePopulation": "62554",
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "code": "in.stateb.tenantw",
+      "code": "in.state1.tenantw",
       "districtCode": "Dhanaula",
       "population": "17331",
       "malePopulation": "10521",
