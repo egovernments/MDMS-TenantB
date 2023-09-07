@@ -1,5 +1,5 @@
 {
-    "tenantId": "in.stateone.tenantu",
+    "tenantId": "in.statetwo.tenantu",
     "moduleName": "BillingService",
     "BusinessService": [
       {

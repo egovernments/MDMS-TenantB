@@ -1,20 +1,20 @@
 {
-  "tenantId": "in.stateone",
+  "tenantId": "in.statetwo",
   "moduleName": "firenoc",
   "FireStations": [
     {
       "code": "FS_CITYA_01",
-      "baseTenantId": "in.stateone.tenantu",
+      "baseTenantId": "in.statetwo.tenantu",
       "active": true
     },
     {
       "code": "FS_CITYB_01",
-      "baseTenantId": "in.stateone.tenantv",
+      "baseTenantId": "in.statetwo.tenantv",
       "active": true
     },
     {
       "code": "FS_CITYC_01",
-      "baseTenantId": "in.stateone.tenantw",
+      "baseTenantId": "in.statetwo.tenantw",
       "active": true
     },
     {

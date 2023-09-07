@@ -1,5 +1,5 @@
 {
-  "tenantId": "in.stateone.tenantu",
+  "tenantId": "in.statetwo.tenantu",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "in.stateone.tenantu",
+        "code": "in.statetwo.tenantu",
         "children": [
           {
             "id": 2,
@@ -741,7 +741,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "in.stateone.tenantu",
+        "code": "in.statetwo.tenantu",
         "children": [
           {
             "id": 2,

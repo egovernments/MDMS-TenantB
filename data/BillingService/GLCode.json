@@ -1,16 +1,16 @@
 {
-	"tenantId": "in.stateone.tenantu",
+	"tenantId": "in.statetwo.tenantu",
 	"moduleName": "BillingService",
 	"GLCode": [
 	{
 		"code": "BIRTH_CERT",
 		"glcode": null,
-		"cb": "in.stateone.tenantu"
+		"cb": "in.statetwo.tenantu"
 	},
 	{
 		"code": "DEATH_CERT",
 		"glcode": null,
-		"cb": "in.stateone.tenantu"
+		"cb": "in.statetwo.tenantu"
 	}
 	]
 }
