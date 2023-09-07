@@ -1,9 +1,9 @@
 {
-  "tenantId": "in.state1",
+  "tenantId": "in.stateone",
   "moduleName": "tenant",
   "footer": [
     {
-      "code": "in.state1.tenantu",
+      "code": "in.stateone.tenantu",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantu",
+      "code": "in.stateone.tenantu",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantu",
+      "code": "in.stateone.tenantu",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantu",
+      "code": "in.stateone.tenantu",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantu",
+      "code": "in.stateone.tenantu",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantu",
+      "code": "in.stateone.tenantu",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantu",
+      "code": "in.stateone.tenantu",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -347,7 +347,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantu",
+      "code": "in.stateone.tenantu",
       "service": "DEFAULT",
       "receiptFooterContent": [
         {
@@ -395,7 +395,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantu",
+      "code": "in.stateone.tenantu",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -443,7 +443,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantv",
+      "code": "in.stateone.tenantv",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -491,7 +491,7 @@
       ]
     },
     {
-      "code": "in.state1",
+      "code": "in.stateone",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -539,7 +539,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantv",
+      "code": "in.stateone.tenantv",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -587,7 +587,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantv",
+      "code": "in.stateone.tenantv",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -635,7 +635,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantv",
+      "code": "in.stateone.tenantv",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -683,7 +683,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantv",
+      "code": "in.stateone.tenantv",
       "service": "DEFAULT",
       "receiptFooterContent": [
         {
@@ -731,7 +731,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantu",
+      "code": "in.stateone.tenantu",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -779,7 +779,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantu",
+      "code": "in.stateone.tenantu",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -827,7 +827,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantv",
+      "code": "in.stateone.tenantv",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -875,7 +875,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantv",
+      "code": "in.stateone.tenantv",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -923,7 +923,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantu",
+      "code": "in.stateone.tenantu",
       "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
@@ -959,7 +959,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantu",
+      "code": "in.stateone.tenantu",
       "service": "ADVT.Unipolls",
       "receiptFooterContent": [
         {
@@ -995,7 +995,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantu",
+      "code": "in.stateone.tenantu",
       "service": "ADVT.Gas_Balloon_Advertisement",
       "receiptFooterContent": [
         {
@@ -1031,7 +1031,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantu",
+      "code": "in.stateone.tenantu",
       "service": "ADVT.Wall_Paint_Advertisement",
       "receiptFooterContent": [
         {
@@ -1067,7 +1067,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantu",
+      "code": "in.stateone.tenantu",
       "service": "ADVT.Light_Wala_Board",
       "receiptFooterContent": [
         {
@@ -1103,7 +1103,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantu",
+      "code": "in.stateone.tenantu",
       "service": "TX.No_Dues_Certificate",
       "receiptFooterContent": [
         {
@@ -1139,7 +1139,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantu",
+      "code": "in.stateone.tenantu",
       "service": "FSM.TRIP_CHARGES",
       "receiptFooterContent": [
         {
@@ -1149,7 +1149,7 @@
       ]
     },
     {
-      "code": "in.state1.tenantv",
+      "code": "in.stateone.tenantv",
       "service": "FSM.TRIP_CHARGES",
       "receiptFooterContent": [
         {

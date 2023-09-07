@@ -1,5 +1,5 @@
 {
-  "tenantId": "in.state1.tenantu",
+  "tenantId": "in.stateone.tenantu",
   "moduleName": "FinanceModule",
   "BusinessServiceMapping": [
     {

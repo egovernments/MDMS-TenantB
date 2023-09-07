@@ -1,9 +1,9 @@
 {
-  "tenantId": "in.state1",
+  "tenantId": "in.stateone",
   "moduleName": "tenant",
   "tenants": [
     {
-      "code": "in.state1",
+      "code": "in.stateone",
       "name": "State B",
       "description": "State B",
       "logoId": "https://s3.ap-south-1.amazonaws.com/in.stateb-assets/logo.jpg",
@@ -37,7 +37,7 @@
       "pdfContactDetails": "PB_CONTACT_DETAILS"
     },
     {
-      "code": "in.state1.tenantu",
+      "code": "in.stateone.tenantu",
       "name": "Tenant U",
       "description": null,
       "logoId": "https://s3.ap-south-1.amazonaws.com/in.stateb-assets/logo.jpg",
@@ -80,15 +80,15 @@
       ],
       "contactNumber": "0183-2545155",
       "helpLineNumber": "0183-2210300",
-      "pdfHeader": "in.state1.tenantu_PDF_HEADER",
-      "pdfContactDetails": "in.state1.tenantu_CONTACT_DETAILS"
+      "pdfHeader": "in.stateone.tenantu_PDF_HEADER",
+      "pdfContactDetails": "in.stateone.tenantu_CONTACT_DETAILS"
     },
     {
-      "code": "in.state1.tenantv",
+      "code": "in.stateone.tenantv",
       "name": "Tenant V",
       "description": "Tenant V",
-      "logoId": "https://stateb.digit.org/in.state1-assets/logo.jpg",
-      "imageId": "https://stateb.digit.org/in.state1-assets/logo.jpg",
+      "logoId": "https://stateb.digit.org/in.stateone-assets/logo.jpg",
+      "imageId": "https://stateb.digit.org/in.stateone-assets/logo.jpg",
       "domainUrl": "www.mcjalandhar.in",
       "type": "CITY",
       "twitterUrl": "https://twitter.com/search?q=%23jalandhar",
@@ -125,15 +125,15 @@
         144010
       ],
       "contactNumber": "0181-2227015",
-      "pdfHeader": "in.state1.tenantv_PDF_HEADER",
-      "pdfContactDetails": "in.state1.tenantv_CONTACT_DETAILS"
+      "pdfHeader": "in.stateone.tenantv_PDF_HEADER",
+      "pdfContactDetails": "in.stateone.tenantv_CONTACT_DETAILS"
     },
     {
-      "code": "in.state1.tenantw",
+      "code": "in.stateone.tenantw",
       "name": "Tenant W",
       "description": null,
-      "logoId": "https://stateb.digit.org/in.state1-assets/logo.jpg",
-      "imageId": "https://stateb.digit.org/in.state1-assets/logo.jpg",
+      "logoId": "https://stateb.digit.org/in.stateone-assets/logo.jpg",
+      "imageId": "https://stateb.digit.org/in.stateone-assets/logo.jpg",
       "domainUrl": "www.nawanshahr.com",
       "type": "CITY",
       "twitterUrl": null,
@@ -165,8 +165,8 @@
       ],
       "contactNumber": "",
       "helpLineNumber": "",
-      "pdfHeader": "in.state1.tenantw_PDF_HEADER",
-      "pdfContactDetails": "in.state1.tenantw_CONTACT_DETAILS"
+      "pdfHeader": "in.stateone.tenantw_PDF_HEADER",
+      "pdfContactDetails": "in.stateone.tenantw_CONTACT_DETAILS"
     }
   ]
 }

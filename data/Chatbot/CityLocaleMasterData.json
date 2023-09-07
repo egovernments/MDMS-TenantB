@@ -1,36 +1,36 @@
 {
-    "tenantId": "in.state1",
+    "tenantId": "in.stateone",
     "moduleName": "Chatbot",
     "CityLocaleMasterData": [
         {
             "cityName": "Tenant U",
             "locale": "in_en",
-            "tenantId": "in.state1.tenantu"
+            "tenantId": "in.stateone.tenantu"
         },
         {
             "cityName": "किरायेदार यू",
             "locale": "in_hi",
-            "tenantId": "in.state1.tenantu"
+            "tenantId": "in.stateone.tenantu"
         },
         {
             "cityName": "Tenant V",
             "locale": "in_en",
-            "tenantId": "in.state1.tenantv"
+            "tenantId": "in.stateone.tenantv"
         },
         {
             "cityName": "किरायेदार वी",
             "locale": "in_hi",
-            "tenantId": "in.state1.tenantv"
+            "tenantId": "in.stateone.tenantv"
         },
         {
             "cityName": "Tenant W",
             "locale": "in_en",
-            "tenantId": "in.state1.tenantw"
+            "tenantId": "in.stateone.tenantw"
         },
         {
             "cityName": "किरायेदार डब्ल्यू",
             "locale": "in_hi",
-            "tenantId": "in.state1.tenantw"
+            "tenantId": "in.stateone.tenantw"
         },
         {
             "cityName": "City D",
