@@ -817,29 +817,6 @@
       "roleBasedDecryptionPolicy": []
     },
     {
-      "model": "TradeLicenseDailyCollectionReport",
-      "uniqueIdentifier": {
-        "name": "uuid",
-        "jsonPath": "/uuid"
-      },
-      "attributes": [
-        {
-          "name": "name",
-          "jsonPath": "name",
-          "patternId": "002",
-          "defaultVisibility": "PLAIN"
-        },
-        {
-          "name": "username",
-          "jsonPath": "username",
-          "patternId": "002",
-          "defaultVisibility": "PLAIN"
-        }
-      ],
-      "roleBasedDecryptionPolicy": [
-      ]
-    },
-    {
       "model": "ChallanStatusRegistry",
       "uniqueIdentifier": {
         "name": "uuid",
